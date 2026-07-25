@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 **Company:** CODTECH IT SOLUTIONS  
 **Name:** Subham Kumar Swain  
-**Intern ID:** ITSC7752
+**Intern ID:** CITS7752
 **Domain:** Data Analytics  
 **Duration:** 6 Weeks  
 
