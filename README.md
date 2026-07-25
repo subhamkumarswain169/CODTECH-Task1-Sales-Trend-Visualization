@@ -5,7 +5,7 @@
 **Name:** [Subham Kumar Swain]  
 **Intern ID:** [CITS7752]  
 **Domain:** Data Analytics  
-**Duration:** 4 Weeks  
+**Duration:** 6 Weeks  
 
 ---
 
